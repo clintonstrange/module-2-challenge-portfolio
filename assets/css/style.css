@@ -196,10 +196,10 @@ header nav ul {
   width: 100%;
 }
 
-.teton {
+.victor {
   grid-column: 2/3;
   grid-row: 4/5;
-  background-image: url("../images/teton2.jpeg");
+  background-image: url("../images/victor.png");
   background-size: cover;
   width: 100%;
 }
